@@ -8,6 +8,8 @@
 
 熟悉的 Light+ 与 Dark+ 色板，以明亮纸白和沉静炭灰相配，再由 VS Code 经典蓝色相连。
 
+在 [Prism 主题画廊](https://github.com/martinkoutecky/tine/discussions/786)中，可以直观比较全部 29 个主题的浅色与深色效果。
+
 ### 深色模式
 
 ![VS Code Plus · Prism 深色模式实拍](docs/vscode-plus-dark.png)

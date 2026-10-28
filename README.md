@@ -15,6 +15,8 @@
 
 The familiar Light+ and Dark+ palettes pair bright paper-white with a quiet charcoal canvas, linked by VS Code’s classic blue accent.
 
+Explore the full [Prism theme gallery](https://github.com/martinkoutecky/tine/discussions/786) to compare all 29 themes in light and dark modes.
+
 ### Dark mode
 
 ![VS Code Plus · Prism in Tine dark mode](docs/vscode-plus-dark.png)
